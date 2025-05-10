@@ -4,7 +4,7 @@ A blog website designed to provide ideas and resources for those who are just ge
 
 ## install
 
-You need Node to build this site. In the root run:
+You need Notes to build this site. In the root run:
 ```
 npm install
 ```
